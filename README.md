@@ -1,4 +1,4 @@
-Weather, Earthquakes & Wildfires Dashboard 🌍🚨
+Weather, Earthquakes & Wildfires Dashboard
 
 A real-time, multi-language (EN/GR) desktop dashboard that tracks weather conditions, active wildfires, and recent global/regional seismic activity. Built with Python and modern GUI libraries, this tool aggregates data from multiple official space and geological agencies into a single utility.
 
@@ -22,10 +22,9 @@ Tech Stack & APIs
 
 Installation & Setup
 
-1. Clone the repository:
-   git clone [https://github.com/YOUR_USERNAME/weather-earthquakes-wildfires.git](https://github.com/YOUR_USERNAME/weather-earthquakes-wildfires.git)
+1. git clone [https://github.com/toniomi/weather-earthquakes-wildfires.git](https://github.com/toniomi/weather-earthquakes-wildfires.git)
    cd weather-earthquakes-wildfires
 
-pip install customtkinter requests folium
+2. pip install customtkinter requests folium
 
-python weather_earthquakes_wildfires.py
+3. python weather_earthquakes_wildfires.py
